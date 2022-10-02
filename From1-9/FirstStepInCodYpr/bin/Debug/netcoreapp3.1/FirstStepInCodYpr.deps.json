@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FirstStepInCodYpr/1.0.0": {
+        "runtime": {
+          "FirstStepInCodYpr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirstStepInCodYpr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

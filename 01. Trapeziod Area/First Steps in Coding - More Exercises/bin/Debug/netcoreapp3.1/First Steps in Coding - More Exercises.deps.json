@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "First Steps in Coding - More Exercises/1.0.0": {
+        "runtime": {
+          "First Steps in Coding - More Exercises.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "First Steps in Coding - More Exercises/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

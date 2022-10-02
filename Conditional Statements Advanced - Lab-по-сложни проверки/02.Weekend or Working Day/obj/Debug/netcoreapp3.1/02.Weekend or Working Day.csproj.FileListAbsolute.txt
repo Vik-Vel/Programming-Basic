@@ -1,0 +1,13 @@
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.exe
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.deps.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.csprojAssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.genruntimeconfig.cache

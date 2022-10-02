@@ -1,0 +1,13 @@
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\FirstStepInCodYpr\bin\Debug\netcoreapp3.1\FirstStepInCodYpr.exe
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\FirstStepInCodYpr\bin\Debug\netcoreapp3.1\FirstStepInCodYpr.deps.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\FirstStepInCodYpr\bin\Debug\netcoreapp3.1\FirstStepInCodYpr.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\FirstStepInCodYpr\bin\Debug\netcoreapp3.1\FirstStepInCodYpr.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\FirstStepInCodYpr\bin\Debug\netcoreapp3.1\FirstStepInCodYpr.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\FirstStepInCodYpr\bin\Debug\netcoreapp3.1\FirstStepInCodYpr.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\FirstStepInCodYpr\obj\Debug\netcoreapp3.1\FirstStepInCodYpr.csprojAssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\FirstStepInCodYpr\obj\Debug\netcoreapp3.1\FirstStepInCodYpr.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\FirstStepInCodYpr\obj\Debug\netcoreapp3.1\FirstStepInCodYpr.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\FirstStepInCodYpr\obj\Debug\netcoreapp3.1\FirstStepInCodYpr.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\FirstStepInCodYpr\obj\Debug\netcoreapp3.1\FirstStepInCodYpr.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\FirstStepInCodYpr\obj\Debug\netcoreapp3.1\FirstStepInCodYpr.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\FirstStepInCodYpr\obj\Debug\netcoreapp3.1\FirstStepInCodYpr.genruntimeconfig.cache

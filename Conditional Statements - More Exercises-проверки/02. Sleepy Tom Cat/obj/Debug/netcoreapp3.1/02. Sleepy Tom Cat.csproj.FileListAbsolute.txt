@@ -1,0 +1,13 @@
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.exe
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.deps.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\netcoreapp3.1\02. Sleepy Tom Cat.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.csprojAssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\netcoreapp3.1\02. Sleepy Tom Cat.genruntimeconfig.cache

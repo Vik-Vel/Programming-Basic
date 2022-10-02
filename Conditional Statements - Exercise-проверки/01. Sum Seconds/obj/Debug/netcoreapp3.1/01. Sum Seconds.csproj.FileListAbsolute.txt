@@ -1,0 +1,13 @@
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\netcoreapp3.1\01. Sum Seconds.exe
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\netcoreapp3.1\01. Sum Seconds.deps.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\netcoreapp3.1\01. Sum Seconds.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\netcoreapp3.1\01. Sum Seconds.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\netcoreapp3.1\01. Sum Seconds.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\netcoreapp3.1\01. Sum Seconds.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.csprojAssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\netcoreapp3.1\01. Sum Seconds.genruntimeconfig.cache

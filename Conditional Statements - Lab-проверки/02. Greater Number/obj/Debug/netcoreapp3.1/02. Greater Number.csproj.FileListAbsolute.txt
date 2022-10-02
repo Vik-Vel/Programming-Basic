@@ -1,0 +1,13 @@
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.exe
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.deps.json
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.runtimeconfig.json
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.runtimeconfig.dev.json
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.dll
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.pdb
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.csprojAssemblyReference.cache
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.AssemblyInfoInputs.cache
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.AssemblyInfo.cs
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.dll
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.pdb
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.genruntimeconfig.cache

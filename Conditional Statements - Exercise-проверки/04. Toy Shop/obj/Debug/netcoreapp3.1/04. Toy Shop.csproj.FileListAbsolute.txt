@@ -1,0 +1,13 @@
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.exe
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.deps.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\netcoreapp3.1\04. Toy Shop.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.csprojAssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\netcoreapp3.1\04. Toy Shop.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.exe
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.deps.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.genruntimeconfig.cache

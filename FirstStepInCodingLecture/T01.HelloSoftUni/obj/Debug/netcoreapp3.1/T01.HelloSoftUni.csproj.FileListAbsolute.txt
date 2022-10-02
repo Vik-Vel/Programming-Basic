@@ -1,0 +1,13 @@
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\FirstStepInCodingLecture\T01.HelloSoftUni\bin\Debug\netcoreapp3.1\T01.HelloSoftUni.exe
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\FirstStepInCodingLecture\T01.HelloSoftUni\bin\Debug\netcoreapp3.1\T01.HelloSoftUni.deps.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\FirstStepInCodingLecture\T01.HelloSoftUni\bin\Debug\netcoreapp3.1\T01.HelloSoftUni.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\FirstStepInCodingLecture\T01.HelloSoftUni\bin\Debug\netcoreapp3.1\T01.HelloSoftUni.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\FirstStepInCodingLecture\T01.HelloSoftUni\bin\Debug\netcoreapp3.1\T01.HelloSoftUni.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\FirstStepInCodingLecture\T01.HelloSoftUni\bin\Debug\netcoreapp3.1\T01.HelloSoftUni.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\FirstStepInCodingLecture\T01.HelloSoftUni\obj\Debug\netcoreapp3.1\T01.HelloSoftUni.csprojAssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\FirstStepInCodingLecture\T01.HelloSoftUni\obj\Debug\netcoreapp3.1\T01.HelloSoftUni.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\FirstStepInCodingLecture\T01.HelloSoftUni\obj\Debug\netcoreapp3.1\T01.HelloSoftUni.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\FirstStepInCodingLecture\T01.HelloSoftUni\obj\Debug\netcoreapp3.1\T01.HelloSoftUni.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\FirstStepInCodingLecture\T01.HelloSoftUni\obj\Debug\netcoreapp3.1\T01.HelloSoftUni.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\FirstStepInCodingLecture\T01.HelloSoftUni\obj\Debug\netcoreapp3.1\T01.HelloSoftUni.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\FirstStepInCodingLecture\T01.HelloSoftUni\obj\Debug\netcoreapp3.1\T01.HelloSoftUni.genruntimeconfig.cache

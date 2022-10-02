@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\obj\Debug\netcoreapp3.1\02. Easter Guests.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\obj\Debug\netcoreapp3.1\02. Easter Guests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\obj\Debug\netcoreapp3.1\02. Easter Guests.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\obj\Debug\netcoreapp3.1\02. Easter Guests.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\obj\Debug\netcoreapp3.1\02. Easter Guests.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\bin\Debug\netcoreapp3.1\02. Easter Guests.exe
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\bin\Debug\netcoreapp3.1\02. Easter Guests.deps.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\bin\Debug\netcoreapp3.1\02. Easter Guests.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\bin\Debug\netcoreapp3.1\02. Easter Guests.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\bin\Debug\netcoreapp3.1\02. Easter Guests.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\bin\Debug\netcoreapp3.1\02. Easter Guests.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\obj\Debug\netcoreapp3.1\02. Easter Guests.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\obj\Debug\netcoreapp3.1\02. Easter Guests.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Guests\obj\Debug\netcoreapp3.1\02. Easter Guests.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\bin\Debug\netcoreapp3.1\02. Easter Party.exe
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\bin\Debug\netcoreapp3.1\02. Easter Party.deps.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\bin\Debug\netcoreapp3.1\02. Easter Party.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\bin\Debug\netcoreapp3.1\02. Easter Party.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\bin\Debug\netcoreapp3.1\02. Easter Party.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\bin\Debug\netcoreapp3.1\02. Easter Party.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\netcoreapp3.1\02. Easter Party.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\netcoreapp3.1\02. Easter Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\netcoreapp3.1\02. Easter Party.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\netcoreapp3.1\02. Easter Party.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\netcoreapp3.1\02. Easter Party.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\netcoreapp3.1\02. Easter Party.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\netcoreapp3.1\02. Easter Party.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\02. Easter Party\obj\Debug\netcoreapp3.1\02. Easter Party.genruntimeconfig.cache

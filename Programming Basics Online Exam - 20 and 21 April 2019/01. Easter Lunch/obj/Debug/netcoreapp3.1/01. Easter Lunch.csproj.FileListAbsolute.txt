@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\bin\Debug\netcoreapp3.1\01. Easter Lunch.exe
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\bin\Debug\netcoreapp3.1\01. Easter Lunch.deps.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\bin\Debug\netcoreapp3.1\01. Easter Lunch.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\bin\Debug\netcoreapp3.1\01. Easter Lunch.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\bin\Debug\netcoreapp3.1\01. Easter Lunch.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\bin\Debug\netcoreapp3.1\01. Easter Lunch.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\obj\Debug\netcoreapp3.1\01. Easter Lunch.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\obj\Debug\netcoreapp3.1\01. Easter Lunch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\obj\Debug\netcoreapp3.1\01. Easter Lunch.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\obj\Debug\netcoreapp3.1\01. Easter Lunch.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\obj\Debug\netcoreapp3.1\01. Easter Lunch.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\obj\Debug\netcoreapp3.1\01. Easter Lunch.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\obj\Debug\netcoreapp3.1\01. Easter Lunch.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\01. Easter Lunch\obj\Debug\netcoreapp3.1\01. Easter Lunch.genruntimeconfig.cache

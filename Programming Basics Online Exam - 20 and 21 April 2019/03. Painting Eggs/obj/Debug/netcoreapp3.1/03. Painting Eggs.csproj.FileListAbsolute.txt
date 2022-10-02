@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\bin\Debug\netcoreapp3.1\03. Painting Eggs.exe
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\bin\Debug\netcoreapp3.1\03. Painting Eggs.deps.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\bin\Debug\netcoreapp3.1\03. Painting Eggs.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\bin\Debug\netcoreapp3.1\03. Painting Eggs.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\bin\Debug\netcoreapp3.1\03. Painting Eggs.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\bin\Debug\netcoreapp3.1\03. Painting Eggs.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\obj\Debug\netcoreapp3.1\03. Painting Eggs.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\obj\Debug\netcoreapp3.1\03. Painting Eggs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\obj\Debug\netcoreapp3.1\03. Painting Eggs.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\obj\Debug\netcoreapp3.1\03. Painting Eggs.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\obj\Debug\netcoreapp3.1\03. Painting Eggs.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\obj\Debug\netcoreapp3.1\03. Painting Eggs.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\obj\Debug\netcoreapp3.1\03. Painting Eggs.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\03. Painting Eggs\obj\Debug\netcoreapp3.1\03. Painting Eggs.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Exam\06. Sum And Product\bin\Debug\netcoreapp3.1\06. Sum And Product.exe
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Exam\06. Sum And Product\bin\Debug\netcoreapp3.1\06. Sum And Product.deps.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Exam\06. Sum And Product\bin\Debug\netcoreapp3.1\06. Sum And Product.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Exam\06. Sum And Product\bin\Debug\netcoreapp3.1\06. Sum And Product.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Exam\06. Sum And Product\bin\Debug\netcoreapp3.1\06. Sum And Product.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Exam\06. Sum And Product\bin\Debug\netcoreapp3.1\06. Sum And Product.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Exam\06. Sum And Product\obj\Debug\netcoreapp3.1\06. Sum And Product.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Exam\06. Sum And Product\obj\Debug\netcoreapp3.1\06. Sum And Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Exam\06. Sum And Product\obj\Debug\netcoreapp3.1\06. Sum And Product.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Exam\06. Sum And Product\obj\Debug\netcoreapp3.1\06. Sum And Product.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Exam\06. Sum And Product\obj\Debug\netcoreapp3.1\06. Sum And Product.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Exam\06. Sum And Product\obj\Debug\netcoreapp3.1\06. Sum And Product.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Exam\06. Sum And Product\obj\Debug\netcoreapp3.1\06. Sum And Product.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Exam\06. Sum And Product\obj\Debug\netcoreapp3.1\06. Sum And Product.genruntimeconfig.cache

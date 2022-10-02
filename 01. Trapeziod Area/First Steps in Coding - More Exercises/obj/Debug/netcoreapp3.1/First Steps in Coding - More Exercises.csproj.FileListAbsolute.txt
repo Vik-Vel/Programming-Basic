@@ -1,0 +1,13 @@
+C:\Users\Виктория\source\repos\01. Trapeziod Area\First Steps in Coding - More Exercises\bin\Debug\netcoreapp3.1\First Steps in Coding - More Exercises.exe
+C:\Users\Виктория\source\repos\01. Trapeziod Area\First Steps in Coding - More Exercises\bin\Debug\netcoreapp3.1\First Steps in Coding - More Exercises.deps.json
+C:\Users\Виктория\source\repos\01. Trapeziod Area\First Steps in Coding - More Exercises\bin\Debug\netcoreapp3.1\First Steps in Coding - More Exercises.runtimeconfig.json
+C:\Users\Виктория\source\repos\01. Trapeziod Area\First Steps in Coding - More Exercises\bin\Debug\netcoreapp3.1\First Steps in Coding - More Exercises.runtimeconfig.dev.json
+C:\Users\Виктория\source\repos\01. Trapeziod Area\First Steps in Coding - More Exercises\bin\Debug\netcoreapp3.1\First Steps in Coding - More Exercises.dll
+C:\Users\Виктория\source\repos\01. Trapeziod Area\First Steps in Coding - More Exercises\bin\Debug\netcoreapp3.1\First Steps in Coding - More Exercises.pdb
+C:\Users\Виктория\source\repos\01. Trapeziod Area\First Steps in Coding - More Exercises\obj\Debug\netcoreapp3.1\First Steps in Coding - More Exercises.csprojAssemblyReference.cache
+C:\Users\Виктория\source\repos\01. Trapeziod Area\First Steps in Coding - More Exercises\obj\Debug\netcoreapp3.1\First Steps in Coding - More Exercises.AssemblyInfoInputs.cache
+C:\Users\Виктория\source\repos\01. Trapeziod Area\First Steps in Coding - More Exercises\obj\Debug\netcoreapp3.1\First Steps in Coding - More Exercises.AssemblyInfo.cs
+C:\Users\Виктория\source\repos\01. Trapeziod Area\First Steps in Coding - More Exercises\obj\Debug\netcoreapp3.1\First Steps in Coding - More Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\source\repos\01. Trapeziod Area\First Steps in Coding - More Exercises\obj\Debug\netcoreapp3.1\First Steps in Coding - More Exercises.dll
+C:\Users\Виктория\source\repos\01. Trapeziod Area\First Steps in Coding - More Exercises\obj\Debug\netcoreapp3.1\First Steps in Coding - More Exercises.pdb
+C:\Users\Виктория\source\repos\01. Trapeziod Area\First Steps in Coding - More Exercises\obj\Debug\netcoreapp3.1\First Steps in Coding - More Exercises.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.exe
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.deps.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\06. Repainting\bin\Debug\netcoreapp3.1\06. Repainting.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.csprojAssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\From1-9\06. Repainting\obj\Debug\netcoreapp3.1\06. Repainting.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.exe
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.deps.json
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.runtimeconfig.json
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.runtimeconfig.dev.json
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.dll
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.pdb
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.AssemblyInfoInputs.cache
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.AssemblyInfo.cs
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.dll
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.pdb
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.genruntimeconfig.cache

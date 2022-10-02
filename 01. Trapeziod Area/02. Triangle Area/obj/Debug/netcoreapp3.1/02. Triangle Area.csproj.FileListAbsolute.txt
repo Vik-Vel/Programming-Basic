@@ -1,0 +1,13 @@
+C:\Users\Виктория\source\repos\01. Trapeziod Area\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.exe
+C:\Users\Виктория\source\repos\01. Trapeziod Area\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.deps.json
+C:\Users\Виктория\source\repos\01. Trapeziod Area\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.runtimeconfig.json
+C:\Users\Виктория\source\repos\01. Trapeziod Area\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.runtimeconfig.dev.json
+C:\Users\Виктория\source\repos\01. Trapeziod Area\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.dll
+C:\Users\Виктория\source\repos\01. Trapeziod Area\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.pdb
+C:\Users\Виктория\source\repos\01. Trapeziod Area\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.csprojAssemblyReference.cache
+C:\Users\Виктория\source\repos\01. Trapeziod Area\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.AssemblyInfoInputs.cache
+C:\Users\Виктория\source\repos\01. Trapeziod Area\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.AssemblyInfo.cs
+C:\Users\Виктория\source\repos\01. Trapeziod Area\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\source\repos\01. Trapeziod Area\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.dll
+C:\Users\Виктория\source\repos\01. Trapeziod Area\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.pdb
+C:\Users\Виктория\source\repos\01. Trapeziod Area\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.genruntimeconfig.cache

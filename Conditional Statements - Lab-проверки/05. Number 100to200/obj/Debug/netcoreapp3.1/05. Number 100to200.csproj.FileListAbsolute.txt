@@ -1,0 +1,13 @@
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\05. Number 100to200\bin\Debug\netcoreapp3.1\05. Number 100to200.exe
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\05. Number 100to200\bin\Debug\netcoreapp3.1\05. Number 100to200.deps.json
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\05. Number 100to200\bin\Debug\netcoreapp3.1\05. Number 100to200.runtimeconfig.json
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\05. Number 100to200\bin\Debug\netcoreapp3.1\05. Number 100to200.runtimeconfig.dev.json
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\05. Number 100to200\bin\Debug\netcoreapp3.1\05. Number 100to200.dll
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\05. Number 100to200\bin\Debug\netcoreapp3.1\05. Number 100to200.pdb
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\05. Number 100to200\obj\Debug\netcoreapp3.1\05. Number 100to200.csprojAssemblyReference.cache
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\05. Number 100to200\obj\Debug\netcoreapp3.1\05. Number 100to200.AssemblyInfoInputs.cache
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\05. Number 100to200\obj\Debug\netcoreapp3.1\05. Number 100to200.AssemblyInfo.cs
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\05. Number 100to200\obj\Debug\netcoreapp3.1\05. Number 100to200.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\05. Number 100to200\obj\Debug\netcoreapp3.1\05. Number 100to200.dll
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\05. Number 100to200\obj\Debug\netcoreapp3.1\05. Number 100to200.pdb
+C:\Users\Виктория\source\repos\Conditional Statements - Lab\05. Number 100to200\obj\Debug\netcoreapp3.1\05. Number 100to200.genruntimeconfig.cache

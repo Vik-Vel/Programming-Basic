@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter EggsBattle\bin\Debug\netcoreapp3.1\04. Easter EggsBattle.exe
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter EggsBattle\bin\Debug\netcoreapp3.1\04. Easter EggsBattle.deps.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter EggsBattle\bin\Debug\netcoreapp3.1\04. Easter EggsBattle.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter EggsBattle\bin\Debug\netcoreapp3.1\04. Easter EggsBattle.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter EggsBattle\bin\Debug\netcoreapp3.1\04. Easter EggsBattle.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter EggsBattle\bin\Debug\netcoreapp3.1\04. Easter EggsBattle.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter EggsBattle\obj\Debug\netcoreapp3.1\04. Easter EggsBattle.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter EggsBattle\obj\Debug\netcoreapp3.1\04. Easter EggsBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter EggsBattle\obj\Debug\netcoreapp3.1\04. Easter EggsBattle.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter EggsBattle\obj\Debug\netcoreapp3.1\04. Easter EggsBattle.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter EggsBattle\obj\Debug\netcoreapp3.1\04. Easter EggsBattle.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter EggsBattle\obj\Debug\netcoreapp3.1\04. Easter EggsBattle.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter EggsBattle\obj\Debug\netcoreapp3.1\04. Easter EggsBattle.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter EggsBattle\obj\Debug\netcoreapp3.1\04. Easter EggsBattle.genruntimeconfig.cache

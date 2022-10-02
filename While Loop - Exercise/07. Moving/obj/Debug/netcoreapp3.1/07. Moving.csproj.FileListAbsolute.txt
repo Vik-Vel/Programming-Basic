@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.exe
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.deps.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\While Loop - Exercise\07. Moving\bin\Debug\netcoreapp3.1\07. Moving.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.dll
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.pdb
+C:\Users\Виктория\Desktop\SoftUni\ProgrammingBasic\While Loop - Exercise\07. Moving\obj\Debug\netcoreapp3.1\07. Moving.genruntimeconfig.cache
